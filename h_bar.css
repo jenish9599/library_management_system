@@ -1,0 +1,43 @@
+body{
+    margin:0px;
+}
+.invalid{
+    font-size: 20px;
+    font-family: cursive;
+    color: #ff0000;
+    text-align: center;    
+}
+
+ul {
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    font-family: cursive;
+    font-size: 15px;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    border-radius: 15px;
+    color: white;
+    text-align: center;
+    padding: 12px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4787ed;#428bca;#3b5998;#4CAF50;
+}

@@ -1,0 +1,32 @@
+
+
+		div{
+			background-color: #ffffff;
+		}
+
+		.divbooks{
+			border: inset;
+			border-radius: 15px;
+			border-size:10px;
+			padding: 5px;
+			margin: 10px;
+			font-family:cursive;
+
+		}
+		.bookimg{
+			clear:right;
+			float:right;
+			width:120px;
+			height:140px
+		}
+		.button{
+			font-family: cursive;
+			background-color: #ff0000;
+			text-align: center;
+			margin: 10px;
+			font-size: 15px;
+
+		}
+		.b_link{
+			
+		}

@@ -1,0 +1,57 @@
+form {
+    background-color: #E5E4E2;#bcc6cc;#b0c4de;
+    border: 5px solid #bcc6cc;#f1f1f1;
+    margin-top: 5%;
+    margin-left: 35%;
+    margin-right: 35%;
+    font-family: cursive;
+    font-size: 15px;
+    border-radius: 15px;
+
+
+}
+
+input[type=text], input[type=password], input[type=number], input[type=email] {
+    width: 100%;
+    padding: 7px 12px;
+    margin: 6px 0;
+    display: inline-block;
+    border: 1.5px solid #bcc6cc;#ccc;
+    box-sizing: border-box;
+    border-radius: 10px;
+    font-size: 15px;
+    font-family: courier new;
+}
+
+button {
+    background-color:  #4787ed;#428bca;#3b5998;
+    border-radius: 10px;
+    color: white;
+    padding: 8px 14px;
+    margin: 6px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    font-size: 16px;
+    font-family: cursive;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+/* Add padding to containers */
+.container {
+    padding: 20px;
+
+}
+
+
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 300px) {
+    span.passwd {
+        display: block;
+        float: none;
+    }
+}
+

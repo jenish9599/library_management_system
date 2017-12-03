@@ -1,0 +1,18 @@
+.frame{
+
+	border-style: inset;
+	border-width: 7px;
+	border-radius: 20px;
+	border-color:#4787ed;
+}
+
+.frame2{
+
+	border-style: inset;
+	border-left-width:0px;
+	border-top-width:5px;
+	border-bottom-width:  5px;
+	border-right-width :5px;
+	border-radius: 2px;
+	border-color:#4787ed;
+}

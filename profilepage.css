@@ -1,0 +1,32 @@
+
+    body{
+        background:url(background2.jpg);
+        font-family: cursive;
+    }
+
+
+	div{
+	
+	background-color: #f1f1f1;
+    border-style:solid; 
+    border-color :#bcc6cc;
+    border-top-width: 0px;
+    border-right-width :10px;
+    border-bottom-width :0px;
+    border-left-width :10px;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    font-family: cursive;
+    font-size: 20px;
+    border-radius: 25px;
+    padding: 20px;
+    line-height: 35px;
+    font-style: bold;
+    
+    
+    
+	}
+
+
